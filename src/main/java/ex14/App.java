@@ -3,17 +3,8 @@ package ex14;
 import java.util.Scanner;
 
 /*
-Example Output
-What is the order amount? 10
-What is the state? WI
-The subtotal is $10.00.
-The tax is $0.55.
-The total is $10.55.
-Or
-
-What is the order amount? 10
-What is the state? MN
-The total is $10.00
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Naomi Palm
  */
 
 public class App {
